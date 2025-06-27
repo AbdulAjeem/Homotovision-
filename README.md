@@ -59,4 +59,7 @@ Technology	Role
 
 🌐 Live Demo
 🎯 Try it here: 🔗 https://drive.google.com/file/d/1JXPVkB5HWoKW9aOBq5KZuHlb4hKM17KM/view?usp=drivesdk
-
+  PROJECT DOCUMENTATION:
+  LINK HERE :  🔗 https://github.com/AbdulAjeem/Homotovision-/blob/master/HematoVision_Project_Documentation.docx
+  PROJECT REPORT: 
+  LINK HERE :
