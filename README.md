@@ -62,4 +62,4 @@ Technology	Role
   PROJECT DOCUMENTATION:
   LINK HERE :  🔗 https://github.com/AbdulAjeem/Homotovision-/blob/master/HematoVision_Project_Documentation.docx
   PROJECT REPORT: 
-  LINK HERE :
+  LINK HERE :   🔗  https://github.com/AbdulAjeem/Homotovision-/blob/master/HematoVision_Project_Report.docx
